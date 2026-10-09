@@ -1,0 +1,8 @@
+.{
+    .name = .zcp,
+    .version = "0.1.0",
+    .fingerprint = 0xb8f27dccc502e7f7, // Changing this has security and trust implications.
+    .minimum_zig_version = "0.17.0",
+    .dependencies = .{},
+    .paths = .{ "build.zig", "build.zig.zon", "src", "README.md", "docs", "scripts", "tests", "benchmarks" },
+}

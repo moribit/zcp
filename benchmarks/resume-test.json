@@ -1,0 +1,13 @@
+{
+  "file_size": 268435527,
+  "resume_offset_total": 524288,
+  "transferred_bytes": 267911239,
+  "elapsed_s": 0.158168,
+  "MB_s": 1693.8397084113094,
+  "buffer_size": 262144,
+  "buffers": 1,
+  "connections": 4,
+  "backend": "generic",
+  "integrity": "on",
+  "sha256_verified": true
+}
